@@ -1,0 +1,150 @@
+{
+  "modal": {
+    "save": {
+      "title": "Anpassungen speichern",
+      "description": "Du wirst hässlich bleiben"
+    },
+    "exit": {
+      "title": "Anpassungen beenden",
+      "description": "Es werden keine Änderungen gespeichert."
+    },
+    "accept": "Ja",
+    "decline": "Nein"
+  },
+  "ped": {
+    "title": "Ped",
+    "model": "Model"
+  },
+  "headBlend": {
+    "title": "Vererbung",
+    "shape": {
+      "title": "Gesicht",
+      "firstOption": "Vater",
+      "secondOption": "Mutter",
+      "mix": "Mix"
+    },
+    "skin": {
+      "title": "Haut",
+      "firstOption": "Vater",
+      "secondOption": "Mutter",
+      "mix": "Mix"
+    },
+    "race": {
+      "title": "Typ",
+      "shape": "Form",
+      "skin": "Haut",
+      "mix": "Mix"
+    }
+  },
+  "faceFeatures": {
+    "title": "Gesichtsmerkmale",
+    "nose": {
+      "title": "Nase",
+      "width": "Breite",
+      "height": "Höhe",
+      "size": "Größe",
+      "boneHeight": "Höhe des Knochens",
+      "boneTwist": "Verdrehung des Knochens",
+      "peakHeight": "Höhe der Spitze"
+    },
+    "eyebrows": {
+      "title": "Augensbrauen",
+      "height": "Höhe",
+      "depth": "Tiefe"
+    },
+    "cheeks": {
+      "title": "Wangen",
+      "boneHeight": "Höhe des Knochens",
+      "boneWidth": "Breite des Knochens",
+      "width": "Breite"
+    },
+    "eyesAndMouth": {
+      "title": "Augen und Mund",
+      "eyesOpening": "Augengröße",
+      "lipsThickness": "Dicke der Lippen"
+    },
+    "jaw": {
+      "title": "Kiefer",
+      "width": "Breite",
+      "size": "Größe"
+    },
+    "chin": {
+      "title": "Kinn",
+      "lowering": "Absenken",
+      "length": "Länge",
+      "size": "Größe",
+      "hole": "Größe des Lochs"
+    },
+    "neck": {
+      "title": "Nacken",
+      "thickness": "Dicke"
+    }
+  },
+  "headOverlays": {
+    "title": "Erscheinungsbild",
+    "hair": {
+      "title": "Haar",
+      "style": "Stil",
+      "color": "Farbe",
+      "highlight": "Highlight",
+      "texture": "Textur",
+      "fade": "Verblassen"
+  },
+    "opacity": "Opazität",
+    "style": "Stil",
+    "color": "Farbe",
+    "secondColor": "Sekundäre Farbe",
+    "blemishes": "Schönheitsfehler",
+    "beard": "Bart",
+    "eyebrows": "Augenbrauen",
+    "ageing": "Alterung",
+    "makeUp": "MakeUp",
+    "blush": "Rötung",
+    "complexion": "Hautfarbe",
+    "sunDamage": "Sonnenschaden",
+    "lipstick": "Lippenstift",
+    "moleAndFreckles": "Leberfleck und Sommersprossen",
+    "chestHair": "Brusthaar",
+    "bodyBlemishes": "Körperliche Makel",
+    "eyeColor": "Augenfarbe"
+  },
+  "components": {
+    "title": "Kleidung",
+    "drawable": "Stil",
+    "texture": "Textur",
+    "mask": "Maske",
+    "upperBody": "Hände",
+    "lowerBody": "Beine",
+    "bags": "Rucksäcke und Fallschirme",
+    "shoes": "Schuhe",
+    "scarfAndChains": "Halstuch und Ketten",
+    "shirt": "Hemd",
+    "bodyArmor": "Weste",
+    "decals": "Aufkleber",
+    "jackets": "Jacken"
+  },
+  "props": {
+    "title": "Zubehör",
+    "drawable": "Stil",
+    "texture": "Textur",
+    "hats": "Hüte und Helme",
+    "glasses": "Brillen",
+    "ear": "Ohren",
+    "watches": "Uhren",
+    "bracelets": "Armbänder"
+  },
+  "tattoos": {
+    "title": "Tattoos",
+    "items": {
+      "ZONE_TORSO": "Oberkörper",
+      "ZONE_HEAD": "Kopf",
+      "ZONE_LEFT_ARM": "Linker Arm",
+      "ZONE_RIGHT_ARM": "Rechter Arm",
+      "ZONE_LEFT_LEG": "Linkes Bein",
+      "ZONE_RIGHT_LEG": "Rechtes Bein"
+    },
+    "apply": "Bestätigen",
+    "delete": "Entfernen",
+    "deleteAll": "Alle Tattoos entfernen"
+  }
+}
